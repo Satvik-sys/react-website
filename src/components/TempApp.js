@@ -33,7 +33,7 @@ const Tempapp = () => {
           <div className="wave -one"></div>
           <div className="wave -two"></div>
           <div className="wave -three"></div>
-          dic
+      
         </div>
     
             )
